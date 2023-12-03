@@ -70,7 +70,7 @@ thousand                         Warning -> 'Invalid input: Phone number should 
 
   - The application should be created with new AWS resources.
 
-  - Template should create Application Load Balancer with Auto Scaling Group of Amazon Linux 2 EC2 Instances within default VPC.
+  - Template should create Application Load Balancer with Auto Scaling Group of Amazon Linux 2023 EC2 Instances within default VPC.
 
   - Application Load Balancer should be placed within a security group which allows HTTP (80) connections from anywhere.
 
