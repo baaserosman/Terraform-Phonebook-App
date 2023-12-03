@@ -1,15 +1,15 @@
 variable "git-name" {
-  default = "****************"
+  default = "github-username"
 }
 
 variable "git-token" {
-  default = "*****************"
+  default = "github-token"
 }
 
 variable "key-name" {
-  default = "************"
+  default = "aws key.pem filename"
 }
 
 variable "hosted-zone" {
-  default = "*******************"
+  default = "AWS Hosted name zone"
 }
