@@ -7,7 +7,7 @@ variable "git-token" {
 }
 
 variable "key-name" {
-  default = "aws key.pem filename"
+  default = "aws key-name"
 }
 
 variable "hosted-zone" {
